@@ -1,7 +1,12 @@
 # AngularVideoAudioRecording-
 
-npm install
+# 1 cd to project 
 
-npm install --save videojs-record @types/video.js
+# 2 npm install
 
-npm start
+# 3 npm install --save videojs-record @types/video.js
+
+# 4 npm start
+
+# Congratulations!!!
+
