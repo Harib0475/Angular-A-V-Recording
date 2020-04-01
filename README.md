@@ -1,4 +1,4 @@
-# AngularVideoAudioRecording-
+# AngularVideoAudioRecording- and ScreenRecording
 
 # 1 - cd to project 
 
